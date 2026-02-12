@@ -1,13 +1,18 @@
-## Hi there 👋
+## 👋 Greetings friend!
 
-<!--
-Here are some ideas to get you started:
+19 years old / 4 years of development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+I am a very motivated developer with an authentic passion for making games. I taught myself how to code by hopping around game jams until I wanted to turn game development into my career. My favorite part about games is creating a lasting impression through emotion, impact, and immersion.
+
+🖋️ I'm currently working on a package called "Accent" \
+🏗️ I want to improve my profile with some interactive pages sometime soon
+
+**Proficiencies**
+
+![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
+![Roblox](https://img.shields.io/badge/-Roblox-05122A?style=flat&logo=robloxstudio)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)
+![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=flat&logo=audacity)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)<br>
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
