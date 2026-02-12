@@ -2,7 +2,7 @@
 
 19 years old / 4 years of development
 
-I am a very motivated developer with an authentic passion for making games. I taught myself how to code by hopping around game jams until I wanted to turn game development into my career. My favorite part about games is creating a lasting impression through emotion, impact, and immersion.
+I am a very motivated developer with an authentic passion for making games. I taught myself how to code by hopping around game jams until I wanted to turn game development into my career. The best part is creating a lasting impression through the emotion, impact, and immersion of the experience.
 
 🖋️ I'm currently working on a package called "Accent" \
 🏗️ I want to improve my profile with some interactive pages sometime soon
